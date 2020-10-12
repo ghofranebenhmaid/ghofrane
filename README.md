@@ -1,5 +1,5 @@
 
-<img align="left" src="https://github.com/ghofranebenhmaid/ghofranebenhmaid/blob/master/logo.png" width="65">
+<img align="left" src="https://github.com/ghofranebenhmaid/dev/blob/master/logo.png" width="65">
 
 [![linkedin](https://img.shields.io/badge/-@ghofranebenhmaid-313131?style=flat-square&labelColor=313131&logo=LinkedIn&logoColor=white&color=313131)](https://www.linkedin.com/in/ghofranebenhmaid/)<br>
 [![instagram](https://img.shields.io/badge/-@ghofranebenhmaid-313131?style=flat-square&labelColor=313131&logo=Instagram&logoColor=white&color=313131)](https://www.instagram.com/in/ghofranebenhmaid/)<br>
