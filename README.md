@@ -3,7 +3,7 @@
 
 [![linkedin](https://img.shields.io/badge/-@ghofranebenhmaid-313131?style=flat-square&labelColor=313131&logo=LinkedIn&logoColor=white&color=313131)](https://www.linkedin.com/in/ghofranebenhmaid/)<br>
 [![instagram](https://img.shields.io/badge/-@ghofranebenhmaid-313131?style=flat-square&labelColor=313131&logo=Instagram&logoColor=white&color=313131)](https://www.instagram.com/in/ghofranebenhmaid/)<br>
-[![](https://img.shields.io/badge/-www.ghofrane.com-313131?style=flat-square&labelColor=313131&logo=Website&logoColor=white&color=313131)](https://ghofranebenhmaid.com/)
+[![](https://img.shields.io/badge/-www.ghofranebenhmaid.com-313131?style=flat-square&labelColor=313131&logo=Website&logoColor=white&color=313131)](https://ghofranebenhmaid.com/)
 <br>
 <br>
 <p>
